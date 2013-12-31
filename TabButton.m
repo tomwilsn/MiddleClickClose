@@ -22,7 +22,7 @@
 @implementation NSObject (MCCSwizzle)
 - (void)_mcc_mouseUp:(NSEvent *) theEvent
 {
-	if ([theEvent isMiddleButtonEvent] || [theEvent modifierFlags] & NSCommandKeyMask) {
+	if (theEvent.buttonNumber == 2 || [theEvent modifierFlags] & NSCommandKeyMask) {
 		[self closeTab: theEvent];
 	}
 }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>868FC6E5-B104-412D-9C05-C0C3B95231AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MiddleClickClose</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C77E7F1-9D73-48C1-A7A8-F9345A511A04</key>
+		<string>ssh://github.com/Kabal/MiddleClickClose.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MiddleClickClose.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C77E7F1-9D73-48C1-A7A8-F9345A511A04</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Kabal/MiddleClickClose.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C77E7F1-9D73-48C1-A7A8-F9345A511A04</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C77E7F1-9D73-48C1-A7A8-F9345A511A04</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MiddleClickClose</string>
+		</dict>
+	</array>
+</dict>
+</plist>
